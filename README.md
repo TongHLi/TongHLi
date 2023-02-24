@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TongHLi
 - 👀 I’m interested in art
-- 🌱 I’m currently learning 汇编 and ocarina
-- 💞️ 你可以访问 todevs.ml
+- 🌱 I’m currently learning 
+- 💞️ 你可以访问 
 - 📫 How to reach me tonghli@outlook.com
 
 <!---
